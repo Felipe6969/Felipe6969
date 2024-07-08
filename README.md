@@ -6,7 +6,7 @@ Hi! I'm [Your Name], a web developer passionate about creating innovative and ef
 ## 🚀 About Me
 - 🌱 I’m currently learning new technologies and frameworks.
 - 👨‍💻 I enjoy working on open-source and collaborative projects.
-- 📫 You can reach me at [mailto:londonof@gmail.com](mailto:londonof@gmail.com).
+- 📫 You can reach me at [mailto:londonof@gmail.com](londonof@gmail.com).
 
 ## 🛠️ Technologies and Tools
 - **Languages**: JavaScript, Python, HTML, CSS
